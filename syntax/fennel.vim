@@ -90,6 +90,17 @@ syn keyword FennelSpecialForm ~=
 syn keyword FennelSpecialForm with-open
 syn keyword FennelSpecialForm λ
 
+" Aniseed macros
+syn keyword FennelSpecialForm module
+syn keyword FennelSpecialForm defn
+syn keyword FennelSpecialForm defn-
+syn keyword FennelSpecialForm def
+syn keyword FennelSpecialForm def-
+syn keyword FennelSpecialForm defonce
+syn keyword FennelSpecialForm defonce-
+syn keyword FennelSpecialForm deftest
+syn keyword FennelSpecialForm time
+
 " Lua keywords
 syntax keyword LuaSpecialValue
 	\ _G
