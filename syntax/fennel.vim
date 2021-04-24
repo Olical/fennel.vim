@@ -122,6 +122,7 @@ syntax keyword LuaSpecialValue
 	\ rawlen
 	\ rawset
 	\ require
+	\ autoload
 	\ select
 	\ setmetatable
 	\ tonumber
